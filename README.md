@@ -3,7 +3,7 @@
 Bangladeshi Top Bombing App
   
  ## Demo 
- ![Logo](ss1.jpeg) 
+ ![Logo](Screenshot_20221114-150220.jpg) 
  ## Developer 
   
  <a href="https://www.facebook.com/team.x.fire.official">Team X Fire</a> 
